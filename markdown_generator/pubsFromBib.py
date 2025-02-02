@@ -42,7 +42,6 @@ publist = {
                         "permalink":"/publication/"}
     } 
 }
-
 html_escape_table = {
     "&": "&amp;",
     '"': "&quot;",
