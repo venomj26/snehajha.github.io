@@ -6,7 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently working as a graduate researcher in Department of Agricultural and Biological Engineering at Purdue University. My main research focus is on designing suitable experiment design for agricultural field trials. I design field trials customized to the topography of the field to reduce random errors. This is made possible using public geographical datasets, high computational power, and machine learning based algorithms.  
+My name is Sneha Jha, a graduate researcher in Department of Agricultural and Biological Engineering at Purdue University. My main research areas are Precision agriculture, field experiment design and decision support appplications. 
+
+For my dissertation, I have focused on designing suitable experiments for agricultural field trials. I customize field trials to the topography of fields to reduce random errors. Publicly available geographical datasets are applied in machine learning based algorithms powered by high computational power to create field models. These cyber-physical models are employed to evaluate field processes and predict yield.  
+
+I have worked on a few other interesting topics in tranportations, antimicrobial resistance surveillance, and sentiment analysis using Twitter/X data. 
+
+Beyond my research, I like to play tennis and read books on medieval history. 
 
 ## Recognitions
 
