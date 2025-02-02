@@ -1,4 +1,6 @@
-# This site has been build using the  [Academic Pages](https://academicpages.github.io/) repo.
+### This site has been build using the  [Academic Pages](https://academicpages.github.io/) repo.
+
+### This repo uses the MIT License
 <!-- **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
