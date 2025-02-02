@@ -12,7 +12,7 @@ For my dissertation, I have focused on designing suitable experiments for agricu
 
 I have worked on a few other interesting topics such as pavement management, antimicrobial resistance surveillance, and sentiment analysis towards precision ag using Twitter/X data. 
 
-Beyond my research, I like to play tennis and read books on medieval history. 
+Beyond my research, I like to play tennis and read modern history. 
 
 ## Recognitions
 
